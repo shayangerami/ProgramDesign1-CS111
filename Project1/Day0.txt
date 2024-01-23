@@ -1,0 +1,8 @@
+types of loops
+for, while, do, sentinel
+data types
+int, float, string, boolean
+container types
+list, dictionary, set, tuple
+components of a program
+input, output, comments, header
