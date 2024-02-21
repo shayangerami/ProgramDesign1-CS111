@@ -18,7 +18,9 @@ If you don't know what 'Gerrymandering' is:
 Simply just:
 
 1- Download the files or clone the repository
+
 2- cd into your directory
+
 3- execute python3 proj3.py
 
 
