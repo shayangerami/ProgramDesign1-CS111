@@ -1,0 +1,52 @@
+Abbreviation,State,Standard Delivery Base Rate,Standar Delivery Estimated Days,Overnight Delivery Base Rate,Overnight Delivery Estimated Days
+AL,Alabama,10,3,50,1
+AK,Alaska,12,4,-1,-1
+AZ,Arizona,14,5,50,1
+AR,Arkansas,16,3,50,1
+CA,California,18,4,50,1
+CO,Colorado,20,5,50,1
+CT,Connecticut,10,3,50,1
+DE,Delaware,12,4,50,1
+DC,District of Columbia,14,5,50,1
+FL,Florida,16,3,50,1
+GA,Georgia,18,4,50,1
+HI,Hawaii,20,5,-1,-1
+ID,Idaho,10,3,50,1
+IL,Illinois,12,4,50,1
+IN,Indiana,14,5,50,1
+IA,Iowa,16,3,50,1
+KS,Kansas,18,4,50,1
+KY,Kentucky,20,5,50,1
+LA,Louisiana,10,3,50,1
+ME,Maine,12,4,50,1
+MD,Maryland,14,5,50,1
+MA,Massachusetts,16,3,50,1
+MI,Michigan,18,4,50,1
+MN,Minnesota,20,5,50,1
+MS,Mississippi,10,3,50,1
+MO,Missouri,12,4,50,1
+MT,Montana,14,5,50,1
+NE,Nebraska,16,3,50,1
+NV,Nevada,18,4,50,1
+NH,New Hampshire,20,5,50,1
+NJ,New Jersey,10,3,50,1
+NM,New Mexico,12,4,50,1
+NY,New York,14,5,50,1
+NC,North Carolina,16,3,50,1
+ND,North Dakota,18,4,50,1
+OH,Ohio,20,5,50,1
+OK,Oklahoma,10,3,50,1
+OR,Oregon,12,4,50,1
+PA,Pennsylvania,14,5,50,1
+RI,Rhode Island,16,3,50,1
+SC,South Carolina,18,4,50,1
+SD,South Dakota,20,5,50,1
+TN,Tennessee,10,3,50,1
+TX,Texas,12,4,50,1
+UT,Utah,14,5,50,1
+VT,Vermont,16,3,50,1
+VA,Virginia,18,4,50,1
+WA,Washington,20,5,50,1
+WV,West Virginia,10,3,50,1
+WI,Wisconsin,12,4,50,1
+WY,Wyoming,14,5,50,1
