@@ -1,0 +1,4 @@
+name,AGATC,AATG,TATC
+Alan,2,8,3
+Edsger,4,1,5
+Katherine,3,2,5
