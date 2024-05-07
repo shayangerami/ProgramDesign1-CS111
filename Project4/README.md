@@ -7,7 +7,6 @@ CS 111 Program Design 1 - UIC Spring 2024
 In this project, you'll build a shopping application. Let's treat it as if you're working as part of a software development team at a company.
 
 
-
 Some project teams have completed their initial work so that software development can begin and we can plan for alpha and beta testing. ( https://www.productplan.com/glossary/beta-test/ )
 
 Functional design
@@ -31,5 +30,4 @@ Database Layer:	Data stored in text files in ZyBooks
 Technical Design
 https://uit.stanford.edu/pmo/technical-design
 
-The technical design team is working on specifications.   They have already determined the data objects for products and the functions related to working with products.  See subsequent pages.
 
